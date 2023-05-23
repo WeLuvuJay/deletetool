@@ -4,7 +4,7 @@ local function chat(msg)
     game.Players:Chat(msg)
 end
 local random = False -- set this to false if you want to use custom delete position
-local customdeletepos = CFrame.new(-501, 0.100000001, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+local customdeletepos = CFrame.new(-100, 0.1000003001, 10, 0, 0, 0, 0, 1, 0, 0, 0, 1)
 local function ivory()
 	chat("gear sluxqr 0000000000000000108158379")
 end
